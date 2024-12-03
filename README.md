@@ -1,4 +1,4 @@
-http://127.0.0.1:8000/images/nama_gambar.jpg => digunakan untuk dapat mengakses foler public di laravel
+php artisan storage:link => digunakan untuk dapat mengakses foler public di laravel
 
 stuktur folder android studio
 app/
